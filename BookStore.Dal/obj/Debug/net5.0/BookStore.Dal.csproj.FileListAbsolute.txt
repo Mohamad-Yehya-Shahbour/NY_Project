@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\bin\Debug\net5.0\BookStore.Dal.deps.json
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\bin\Debug\net5.0\BookStore.Dal.runtimeconfig.json
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\bin\Debug\net5.0\BookStore.Dal.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\bin\Debug\net5.0\BookStore.Dal.dll
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\bin\Debug\net5.0\BookStore.Dal.pdb
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\obj\Debug\net5.0\BookStore.Dal.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\obj\Debug\net5.0\BookStore.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\obj\Debug\net5.0\BookStore.Dal.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\obj\Debug\net5.0\BookStore.Dal.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\obj\Debug\net5.0\BookStore.Dal.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\obj\Debug\net5.0\BookStore.Dal.dll
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\obj\Debug\net5.0\refint\BookStore.Dal.dll
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\obj\Debug\net5.0\BookStore.Dal.pdb
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\obj\Debug\net5.0\BookStore.Dal.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\bookStore\BookStore\BookStore.Dal\obj\Debug\net5.0\ref\BookStore.Dal.dll
